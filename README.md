@@ -18,3 +18,25 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jean-david-valencia-esteban-4a5957264).
 - :boom: I have a good level of English due to living in the UK for a month.
 <br>
+
+## Languages
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,go,java,kotlin,py" />
+  </a>
+</p>
+
+## Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,spring,rabbitmq,postman,mysql,maven,kubernetes,idea,github,git,docker" />
+  </a>
+</p>
+
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+
+<h3> 🔥 Streak Stats</h3>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanvaes&theme=tokyonight_duo" alt="7oSkaaa" /></p>
