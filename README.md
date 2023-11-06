@@ -48,3 +48,10 @@
 	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jeanvaes&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jeanvaes&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Jeanvaes" height="230px"/>
 <br/>
+
+</details>
+
+<h3> :trophy: Git profile Trophies </h3>
+	
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jeanvaes&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Jeanvaes" /></a> </p>
+
