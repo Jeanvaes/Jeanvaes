@@ -16,7 +16,7 @@
 - :student: I’m currently learning `Engineering Informatics` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jean-david-valencia-esteban-4a5957264).
-- :boom: I have a good level of English due to living in the UK for a month.
+- :boom: I have a good level of English due to living in the UK for a year.
 <br>
 
 ## Languages
