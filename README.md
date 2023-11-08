@@ -39,7 +39,7 @@
 
 <h3> 🔥 Streak Stats</h3>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanvaes&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeanvaes&theme=tokyonight_duo" alt="Jeanvaes" /></p>
 
 <h3>💻 GitHub Profile Stats</h3>
 	
