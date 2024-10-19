@@ -9,10 +9,10 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
+- :school: I am a `Computer Science Student` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
 - :trophy: Participant of SabanaHack.
-- :technologist: I love using Software as a solution for some `Problems`.
-- :computer: I am trying to be a competitive programmer at `HackRank` and `Leetcode`.
+- :technologist: I love software development and Software Architecture.
+- :computer: I am trying to get a java certificate `OCP 17` and `SpringBoot Certification`.
 - :student: I’m currently learning `Engineering Informatics` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jean-david-valencia-esteban-4a5957264).
