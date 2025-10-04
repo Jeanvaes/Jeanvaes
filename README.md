@@ -10,7 +10,7 @@
 <br><br>
 
 - :school: I am a `Computer Science Student` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
-- :International: I did my last year in Germany as well as my professional Internship.
+- :earth_europe: I did my last year in Germany as well as my professional Internship.
 - :trophy: My team and me won first place in SabanaHack 2024.
 - :technologist: I love software development, Software Architecture, DevOps.
 - :computer: I am getting more into machine learning and development of AI agents.
