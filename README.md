@@ -16,7 +16,7 @@
 - :computer: I am getting more into machine learning and development of AI agents.
 - :student: I’m currently learning `Machine learning` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jean-david-valencia-esteban-4a5957264).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jeanvaes).
 - :boom: I have a good level of English due to living in the UK for a year. At the moment I´m improving my German language.
 <br>
 
