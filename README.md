@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,java,kotlin,py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=java,kotlin,go,cpp,py&theme=dark" />
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,spring,rabbitmq,postman,mysql,maven,kubernetes,idea,github,git,docker,langchain" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,spring,rabbitmq,postman,mysql,maven,kubernetes,idea,github,git,docker,langchain,anaconda,argocd,grafana,microsoftcopilot,pycharm,mongodb&theme=dark&perLine=12" />
   </a>
 </p>
 
