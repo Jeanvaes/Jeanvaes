@@ -13,7 +13,7 @@
 - :de: I did my last year in Germany as well as my professional Internship.
 - :trophy: My team and me won first place in SabanaHack 2024.
 - :technologist: I love software development, Software Architecture, DevOps.
-- :computer: I am getting more into machine learning and development of AI agents.
+- :robot: I am getting more into machine learning and development of AI agents with tools like Copilot Studio and Langchain.
 - :student: I’m currently learning `Machine learning` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jeanvaes).
