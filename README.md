@@ -9,12 +9,12 @@
 
 <br><br>
 
-- :school: I am a `Computer Science Engineer` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
+- :school: I am a `Computer Science Engineer` from [Universidad de la Sabana](https://www.unisabana.edu.co/).
 - :de: I did my last year in Germany as well as my professional Internship.
 - :trophy: My team and me won first place in SabanaHack 2024.
-- :technologist: I love software development, Software Architecture, DevOps.
-- :robot: I am getting more into machine learning and development of AI agents with tools like Copilot Studio and Langchain.
-- :student: I’m currently learning `Machine learning` and `Software Engineering`.
+- :technologist: I love software development, Software Architecture, DevOps and agents development.
+- :robot: I am getting more into machine learning and development of AI agents with tools like Copilot Studio, Langchain Family and Langchain4j.
+- :student: I’m currently learning `Deep learning` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY LINKEDIN](www.linkedin.com/in/jeanvaes).
 - :boom: I have a good level of English due to living in the UK for a year. At the moment I´m improving my German language.
