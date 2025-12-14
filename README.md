@@ -9,7 +9,7 @@
 
 <br><br>
 
-- :school: I am a `Computer Science Student` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
+- :school: I am a `Computer Science Engineer` at [Faculty of Engineering](https://www.unisabana.edu.co/facultaddeingenieria/) at [Universidad de la Sabana](https://www.unisabana.edu.co/).
 - :de: I did my last year in Germany as well as my professional Internship.
 - :trophy: My team and me won first place in SabanaHack 2024.
 - :technologist: I love software development, Software Architecture, DevOps.
